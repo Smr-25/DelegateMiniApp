@@ -1,0 +1,11 @@
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/bin/Debug/net9.0/Utils.deps.json
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/bin/Debug/net9.0/Utils.dll
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/bin/Debug/net9.0/Utils.pdb
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/Utils.AssemblyInfoInputs.cache
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/Utils.AssemblyInfo.cs
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/Utils.csproj.CoreCompileInputs.cache
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/Utils.dll
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/refint/Utils.dll
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/Utils.pdb
+/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/obj/Debug/net9.0/ref/Utils.dll
