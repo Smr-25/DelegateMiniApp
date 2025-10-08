@@ -10,7 +10,7 @@ public class Book : IEntity
 
     public int PageCount { get; set; }
 
-    public bool isDeleted { get; set; }
+    public bool IsDeleted { get; set; }
 
     private static int _id;
     public Book(string name, string authorName, int pageCount)
@@ -23,7 +23,7 @@ public class Book : IEntity
     }
     public override string ToString()
     {
-        return $"Id: {Id}, Name: {Name}, AuthorName: {AuthorName}, PageCount: {PageCount}, isDeleted: {isDeleted}";
+    return $"Id: {Id}, Name: {Name}, AuthorName: {AuthorName}, PageCount: {PageCount}, IsDeleted: {IsDeleted}";
     }
 }
 

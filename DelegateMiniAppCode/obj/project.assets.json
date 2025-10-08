@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/DelegateMiniAppCode/DelegateMiniAppCode.csproj",
+      "projectUniqueName": "/Users/asmrofficialfinder/Documents/CodeAcademyGitHUB/DelegateMiniAppCode/DelegateMiniAppCode/DelegateMiniAppCode.csproj",
       "projectName": "DelegateMiniAppCode",
-      "projectPath": "/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/DelegateMiniAppCode/DelegateMiniAppCode.csproj",
+      "projectPath": "/Users/asmrofficialfinder/Documents/CodeAcademyGitHUB/DelegateMiniAppCode/DelegateMiniAppCode/DelegateMiniAppCode.csproj",
       "packagesPath": "/Users/asmrofficialfinder/.nuget/packages/",
-      "outputPath": "/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/DelegateMiniAppCode/obj/",
+      "outputPath": "/Users/asmrofficialfinder/Documents/CodeAcademyGitHUB/DelegateMiniAppCode/DelegateMiniAppCode/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asmrofficialfinder/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/Utils.csproj": {
-              "projectPath": "/Users/asmrofficialfinder/Desktop/DelegateMiniAppCode/Utils/Utils.csproj"
+            "/Users/asmrofficialfinder/Documents/CodeAcademyGitHUB/DelegateMiniAppCode/Utils/Utils.csproj": {
+              "projectPath": "/Users/asmrofficialfinder/Documents/CodeAcademyGitHUB/DelegateMiniAppCode/Utils/Utils.csproj"
             }
           }
         }
